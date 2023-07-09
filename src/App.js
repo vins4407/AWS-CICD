@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          AWS-CICD using CodePopeline, BeanStalk And Github !
+          AWS-CICD using CodePipeline, BeanStalk and Github !
         </p>
         <a
           className="App-link"
